@@ -12,3 +12,4 @@ http://www.clicknothing.typepad.com/click_nothing/2015/03/ten-years-down.html
 http://christinacacioppo.com/blog/learning-online
 http://all-things-andy-gavin.com/tag/pt_crash_history/?order=ASC
 http://www.gamasutra.com/view/feature/1781/principles_of_virtual_sensation.php?print=1
+http://www.newyorker.com/magazine/2015/02/23/shape-things-come
