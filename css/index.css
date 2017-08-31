@@ -26,7 +26,7 @@ a:hover {
 
 h1 {
   font-size: 2.4em;
-  margin: 0.1em 0 -0.2em 0;
+  margin: 0.1em 0 0.4em 0;
   text-align: center;
   font-weight: normal;
 }
@@ -62,8 +62,4 @@ p {
 .next {
   float: right;
   text-align: right;
-}
-
-.post-in-list {
-  margin: 1.4em 0;
 }
