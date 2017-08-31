@@ -2,12 +2,12 @@
 permalink: /post/:title.html
 paginate: 10000
 paginate_path: "/page/:num"
-title: Craft
+title: Talking about craft
 email: mary@maryrosecook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Craft
+  People who make things talking about their craft
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://findingcraft.com" # the base hostname & protocol for your site
+url: "http://talkingaboutcraft.maryrosecook.com" # the base hostname & protocol for your site
 
 # Build settings
 gems: [jekyll-paginate, jekyll-compose]
