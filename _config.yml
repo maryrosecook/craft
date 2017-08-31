@@ -1,0 +1,17 @@
+# Site settings
+permalink: /post/:title.html
+paginate: 5
+paginate_path: "/page/:num"
+title: Craft
+email: mary@maryrosecook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Craft
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://findingcraft.com" # the base hostname & protocol for your site
+
+# Build settings
+gems: [jekyll-paginate, jekyll-compose]
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true

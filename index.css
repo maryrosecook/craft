@@ -1,0 +1,53 @@
+body {
+  font-family: "Gill Sans W01 Book";
+  margin: 0px;
+  min-width: 350px;
+  max-width: 600px;
+  padding: 0.8em;
+  font-size: 1.2em;
+  margin-left: auto;
+  margin-right: auto;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
+  -webkit-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+}
+
+a {
+  color: black;
+  border-bottom: 1px solid black;
+  text-decoration: none;
+}
+
+a:hover {
+  border: none;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0.4em;
+  letter-spacing: 1px;
+  font-weight: normal;
+  text-align: center;
+}
+
+h2 {
+  padding-top: 9px;
+  font-size: 1.2em;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0.2em;
+  font-weight: normal;
+}
+
+p {
+  line-height: 1.2em;
+  text-align: justify;
+}
+
+@media handheld, only screen and (max-width: 767px) {
+  body {
+
+  }
+}
