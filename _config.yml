@@ -1,6 +1,6 @@
 # Site settings
 permalink: /post/:title.html
-paginate: 5
+paginate: 10000
 paginate_path: "/page/:num"
 title: Craft
 email: mary@maryrosecook.com
